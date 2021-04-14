@@ -1,1 +1,7 @@
-
+.App-header {
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Pacifico", cursive;
+  color: #f83567;
+  font-size: 45px;
+}
