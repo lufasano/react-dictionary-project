@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
         <header className="App-header">React Dictionary</header>
         <main>
-          <Dictionary defaultKeyword="hello" />
+          <Dictionary defaultKeyword="moon" />
         </main>
         <footer className="footer">
           This project was coded by{" "}
