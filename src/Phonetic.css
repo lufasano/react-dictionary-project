@@ -1,0 +1,19 @@
+.Phonetic {
+  height: 80px;
+}
+
+.Phonetic span {
+  font-style: italic;
+  color: #5e63b6;
+  font-size: 20px;
+  font-weight: 600;
+  opacity: 0.8;
+}
+
+.Phonetic .React-audio-player {
+  margin-left: 50px;
+  border: 2px solid #27296d;
+  border-radius: 25px;
+  position: relative;
+  top: 20px;
+}
