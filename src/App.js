@@ -11,13 +11,18 @@ export default function App() {
         </main>
         <footer className="footer">
           This project was coded by{" "}
-          <a href="https://www.linkedin.com/in/lucianafasano/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/lucianafasano/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Luciana Fasano
           </a>{" "}
           and is open-sourced on{" "}
           <a
             href="https://github.com/lufasano/react-dictionary-project"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>
